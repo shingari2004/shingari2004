@@ -27,6 +27,24 @@ const thai = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=benyou1969&show_icons=true&theme=dracula" />
+    </td>
+    <td align="center">
+      <a href="https://benyou.me">
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" />
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <br>
+        <strong>Visit my personal website </strong>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ⭐️ From [@Thaiane](https://github.com/Thaiane)
